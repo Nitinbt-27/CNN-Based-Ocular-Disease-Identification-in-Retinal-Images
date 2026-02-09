@@ -1,0 +1,24 @@
+#searchbtn{
+    background-color:white;
+}
+
+#heading{
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.form-inline{
+    align-items: center;
+    text-align: center;
+}
+
+.reportbtn{
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+
+
